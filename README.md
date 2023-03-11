@@ -1,12 +1,13 @@
 # Bike Sharing Assignment
-> A rental bike-sharing system in which bikes are made available for shared use to individuals on a short term basis for a price or free. It allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+> A rental bike-sharing system in which bikes are made available for shared use to individuals on a short term basis for a price or free. 
+It allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 ## Business objective
-The objective is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+The objective is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new or future market.
 
 <br>
 
-## Problem Solving Methodology
+## Approach: 
 * Data Understanding-
 > Understanding and working with data dictionary and getting good knowledge of all the columns and their domain specific uses.
 * Data Visualization-
@@ -25,10 +26,10 @@ The objective is to model the demand for shared bikes with the available indepen
 
 <br>
 
-## Technologies Used
+## Technologies: 
 - Python - version 3.x
 
-## Libraries Used
+## Python Libraries: 
 - Pandas , Numpy , Matplotlib , Seaborn , sklearn , statsmodels
 
 ## Contributors
